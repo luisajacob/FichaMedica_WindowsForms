@@ -1,0 +1,22 @@
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\bin\Debug\N2_2B_Alg2.exe.config
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\bin\Debug\N2_2B_Alg2.exe
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\bin\Debug\N2_2B_Alg2.pdb
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.csproj.AssemblyReference.cache
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.csproj.SuggestedBindingRedirects.cache
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.Form1.resources
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.Properties.Resources.resources
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.csproj.GenerateResource.cache
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.csproj.CoreCompileInputs.cache
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.exe
+Z:\EC2\ALG2\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.pdb
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\bin\Debug\N2_2B_Alg2.exe.config
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\bin\Debug\N2_2B_Alg2.exe
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\bin\Debug\N2_2B_Alg2.pdb
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.csproj.AssemblyReference.cache
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.Form1.resources
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.Properties.Resources.resources
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.csproj.GenerateResource.cache
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.csproj.CoreCompileInputs.cache
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.exe
+C:\Users\Win\OneDrive - Fundação Salvador Arena\N2_2B_Alg2\N2_2B_Alg2\obj\Debug\N2_2B_Alg2.pdb
